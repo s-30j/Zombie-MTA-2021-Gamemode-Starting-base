@@ -1,5 +1,6 @@
-# MTA DAYZ Gamemode
-Good, bug-free, lag-free, functional dayz gamemode.
+# Zombie mta server 2021
+This is an old [Dayz] game mode for Starting Base
+It has many bugs, but it's better than any gamemode.
 
 # Installation
 1. Place all the files in resource folder
@@ -28,7 +29,3 @@ Good, bug-free, lag-free, functional dayz gamemode.
 ```
 4. and you're done!
 
-# Preview
-![alt text](https://image.prntscr.com/image/lfkOVHKYRnmmGbiIRRdk1Q.png)
-![alt text](https://image.prntscr.com/image/vf0X-utGQOqT9mKMILm_Gg.png)
-![alt text](https://image.prntscr.com/image/aFyKtIRlTn21Ku86FsDFiQ.png)
